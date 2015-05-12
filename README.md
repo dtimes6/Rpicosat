@@ -1,6 +1,9 @@
 # Rpicosat
+
 bindings to picosat (a SAT solver)
+
 PicoSAT is a popular SAT solver written by Armin Biere in pure C.
+
 see: http://fmv.jku.at/picosat/ for more details
 
 ## Install:
