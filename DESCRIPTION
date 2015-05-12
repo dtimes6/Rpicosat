@@ -1,0 +1,11 @@
+Package: Rpicosat
+Type: Package
+Title: bindings to picosat (a SAT solver)
+Version: 1.0
+Date: 2015-05-12
+Author: Peng Dai
+Maintainer: dtimes6 <dtimes6@163.com>
+Description: PicoSAT is a popular SAT solver written by Armin Biere in pure C. 
+License: MIT
+Imports: Rcpp (>= 0.11.6)
+LinkingTo: Rcpp
